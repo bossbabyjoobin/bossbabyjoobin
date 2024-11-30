@@ -95,7 +95,7 @@ ___
 🫧 Is the room quiet without SooMin? ㅋㅋ
 
 It’s really quiet
-We spend more time in the practice room than in the HAUS (these days) 
+We spend more time in the practice room than in the HAUS (these days)
 and with all 16 of us gathered in the practice room 
 you don’t feel the difference as much...  
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
