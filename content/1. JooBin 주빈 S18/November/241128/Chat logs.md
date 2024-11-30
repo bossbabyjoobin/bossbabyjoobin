@@ -78,6 +78,7 @@ Like, who would expect it to be a kiss??
 I just said “Yes….”  
 And she was like
 "*Okay*, **now there’s one more** *member* **added to my kiss list**"<sup>[*EN*]</sup><sup>[**KR**]</sup>
+
 `[t/n: the mix of KR and EN is just like how Xinyu speaks ^~^]`  
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 🫧 I can literally hear Xinyu's voice while while reading that ㅋㅋㅋㅋ 
