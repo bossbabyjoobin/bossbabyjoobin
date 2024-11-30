@@ -67,10 +67,9 @@ But then she backed off
 So I thought *“Uhh.. okay?”*  
 But all of a sudden, her lips came closer again
 and before I knew it, she kissed me 
-
 …After HaYeon unnie and Lynn unnie  
 this was the first time I had been kissed by someone else in a while
-I was so flustered like _“What just happened?”_
+I was so flustered like _“What just happened?”_     
 but Xinyu unnie goes
 "Do you usually just stay still when someone gets close to you?"  
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ  
@@ -79,12 +78,9 @@ Like, who would expect it to be a kiss??
 I just said “Yes….”  
 And she was like
 "*Okay*, **now there’s one more** *member* **added to my kiss list**"<sup>[*EN*]</sup><sup>[**KR**]</sup>
-
 `[t/n: the mix of KR and EN is just like how Xinyu speaks ^~^]`  
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
-
 🫧 I can literally hear Xinyu's voice while while reading that ㅋㅋㅋㅋ 
-
 
 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
