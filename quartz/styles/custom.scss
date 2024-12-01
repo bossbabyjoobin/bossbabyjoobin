@@ -1,27 +1,8 @@
 @use "./base.scss";
+@use "./themes";
+.content-meta {
+  display: none; 
+}
+
 
 // put your custom CSS here!
-ul, 
-ol, 
-p {
-  margin-top: 1rem;     /* Add spacing above */
-  margin-bottom: 1rem;  /* Add spacing below */
-}
-
-li {
-  margin-bottom: 0.5rem; /* Add spacing between list items */
-}
-
-// Ensure headings have consistent spacing
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 1.5rem;    /* Space above headings */
-  margin-bottom: 0.5rem; /* Space below headings */
-}
-
-// Fix any nested list or list within paragraphs
-ul ul,
-ol ol {
-  margin-top: 0.5rem;    /* Adjust nested list top spacing */
-  margin-bottom: 0.5rem; /* Adjust nested list bottom spacing */
-  padding-left: 1rem;    /* Indent nested lists */
-}
