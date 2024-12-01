@@ -1,5 +1,5 @@
 ---
-title: Welcome to bossbabyjoobin's fromm translations archive
+title: fromm translations archive
 ---
 ___
 # **Accounts**
