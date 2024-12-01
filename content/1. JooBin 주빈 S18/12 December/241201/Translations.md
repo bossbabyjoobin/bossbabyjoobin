@@ -26,3 +26,5 @@ I’m also so thankful to our members who worked so hard ❤️
 The fact that we can meet as a member of tripleS, I think I'm so lucky
 From now on, I’ll continue to grow and show even more of our potential!!!!! 
 Look forward to it
+
+![[[youtube@-ygyjMCdcMw] (2)-1-1.mp4]]
