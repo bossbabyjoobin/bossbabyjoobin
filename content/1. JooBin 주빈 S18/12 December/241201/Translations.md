@@ -27,5 +27,5 @@ The fact that we can meet as a member of tripleS, I think I'm so lucky
 From now on, I’ll continue to grow and show even more of our potential!!!!! 
 Look forward to it
 
-![[content/IMG/[youtube@-ygyjMCdcMw] (2)-1-1.mp4]]
-![[CHK CHK (촉촉) - [Off The Stage] tripleS NXT (트리플에스 넥스트) ‘Just Do It’ (4K) [t-SOwxJUOvc - 1920x1080 - 0m50s] (1).png|500]]
+![[[주밤🤍 on X: "Baby🥹 https://t.co/Nsgdv4GeAE" / X](https://x.com/bossbabyjoobin/status/1863130938466533613/video/)
+![[chkjb.png|500]]
