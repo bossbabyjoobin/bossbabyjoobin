@@ -28,10 +28,4 @@ From now on, I’ll continue to grow and show even more of our potential!!!!!
 Look forward to it
 
 
-<video src=![[241201.mp4]] style="max-width: 600px; height: auto;" controls></video>
-
 ![[241201.mp4]]
-
-
-
-![[chkjb.png|500]]
