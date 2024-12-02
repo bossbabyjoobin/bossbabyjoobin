@@ -8,13 +8,7 @@
 }
 
 video {
-  width: 100%;
-  height: auto;
-  max-width: 800px; 
-}
-
-@media (max-width: 600px) {
-  video {
-    max-width: 400px; 
-  }
+  width: 800px;
+  height: 450px;
+  max-width: 100%;
 }
