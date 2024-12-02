@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      tripleS X: "https://x.com/triplescosmos",
+      "tripleS X": "https://x.com/triplescosmos",
       "tripleS youtube": "https://www.youtube.com/@triplescosmos",
     },
   }),
