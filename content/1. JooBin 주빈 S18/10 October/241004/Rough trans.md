@@ -285,7 +285,7 @@ ____
 
 Binnie and her 𝗍̶𝗂̶𝗋̶𝗂̶𝗇̶𝗀̶ relationship with 07s and members keep losing their stuff just to find it again
 
-#JooBin #주빈q
+#JooBin #주빈
 
 
 🫧 Did you see Chaewon make a strawberry cake today?  
