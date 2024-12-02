@@ -27,5 +27,8 @@ The fact that we can meet as a member of tripleS, I think I'm so lucky
 From now on, I’ll continue to grow and show even more of our potential!!!!! 
 Look forward to it
 
-![[[주밤🤍 on X: "Baby🥹 https://t.co/Nsgdv4GeAE" / X](https://x.com/bossbabyjoobin/status/1863130938466533613/video/)
+
+![](https://www.youtube.com/watch?v=sLxDjA7oitU)
+
+
 ![[chkjb.png|500]]
