@@ -27,8 +27,8 @@ The fact that we can meet as a member of tripleS, I think I'm so lucky
 From now on, I’ll continue to grow and show even more of our potential!!!!! 
 Look forward to it
 
+![[241201.mp4]]
 
-![](https://www.youtube.com/watch?v=sLxDjA7oitU)
 
 
 ![[chkjb.png|500]]
