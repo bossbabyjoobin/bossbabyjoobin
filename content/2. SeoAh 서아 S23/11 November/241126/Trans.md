@@ -5,7 +5,7 @@ she looks like her oppa
 
 #SeoAh #서아
 ___
-![[1732622432471 (1).png|150]]  ![[1732622435435.png|150]]
+![[seoah1.png|150]]  ![[seoah2.png|150]]
 <br>
 
 I sent my pictures to Oppa and asked "How do I look?" 

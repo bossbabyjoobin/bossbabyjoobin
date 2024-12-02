@@ -9,7 +9,7 @@ ___
 # **Archive links**
 
 
-![[Google_Drive_text_logo_grey 1.png|160]]
+![[google.png|160]]
 1)  [JooBin's fromm archive](https://bit.ly/JooBin-s18)
 2) [SeoAh's fromm archive](https://bit.ly/SeoAh-s23)
    
