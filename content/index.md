@@ -3,7 +3,8 @@ title: 🐣☀️🦭
 ---
 ___
 
-fromm translations archive for JooBin and SeoAh. Doesn't support mobile view _for now_. Best viewed on desktop (or desktop site on mobile) 
+fromm translations archive for JooBin and SeoAh. Doesn't support mobile view _for now_. 
+Best viewed on desktop (or desktop site on mobile) 
 
 Translations may contain inaccuracies ^~^
 
