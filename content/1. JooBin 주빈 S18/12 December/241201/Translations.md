@@ -30,5 +30,6 @@ Look forward to it
 
 ____
 
-`[JooBin's reaction]`
+[JooBin's reaction]
+
 ![[241201.mp4]]
