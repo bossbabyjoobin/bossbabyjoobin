@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "tripleS X": "https://x.com/triplescosmos",
       "tripleS youtube": "https://www.youtube.com/@triplescosmos",
+      "tripleS discord": "https://discord.com/invite/triplescosmos",
     },
   }),
 }
