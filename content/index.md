@@ -2,7 +2,8 @@
 title: 🐣☀️🦭
 ---
 ___
-
+![[joobinseoah.png]]
+<br>
 fromm translations archive for JooBin and SeoAh
 Best viewed on desktop (or desktop site on mobile)
 Currently, native mobile view is _not supported_
