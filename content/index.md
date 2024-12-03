@@ -7,11 +7,11 @@ title: 🐣☀️🦭
 
 fromm translations archive for JooBin and SeoAh
 Best viewed on desktop (or desktop site on mobile)
-Currently, explorer tab is *not supported* in native mobile view (only good for viewing)
+Currently, explorer tab is *not supported* in native mobile view (only for viewing)
 
 
 I’ll eventually add all the translations I’ve posted on Twitter when I have time
-Translations may contain inaccuracies ^~^
+As always, translations may contain inaccuracies ^~^ sorry for typos ~
 
 
 
