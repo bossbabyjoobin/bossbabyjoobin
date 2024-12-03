@@ -1,8 +1,9 @@
 ---
 title: 🐣☀️🦭
 ---
-___
+
 ![[joobinseoah.png]]
+___
 <br>
 fromm translations archive for JooBin and SeoAh
 Best viewed on desktop (or desktop site on mobile)
