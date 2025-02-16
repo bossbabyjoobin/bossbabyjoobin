@@ -20,6 +20,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
+	defaultSocialImage: "og-image.png",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
