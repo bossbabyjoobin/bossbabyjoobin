@@ -23,11 +23,10 @@ ___
 ## **📚 Archive Links**
 
 ![[google.png|160]]
-
-| Archive | Link |
+| fromm Updates | Link |
 |---------|------|
-| 📝 **JooBin's Fromm Archive** | [🔗 Click here](https://bit.ly/JooBin-s18) |
-| 📝 **SeoAh's Fromm Archive** | [🔗 Click here](https://bit.ly/SeoAh-s23) |
+| 📝 **JooBin's fromm Archive** | [🔗](https://bit.ly/JooBin-s18) |
+| 📝 **SeoAh's fromm Archive** | [🔗](https://bit.ly/SeoAh-s23) |
 
 
 ___
@@ -35,11 +34,10 @@ ___
 ## **🎵 Playlists (WIP ⏳)**
 
 ![[Spotify_logo_with_text.svg|140]]
-
-| Playlist | Link |
+| Song Recs | Link |
 |----------|------|
-| 🎶 **JooBin's Playlist** | [🔗 Click here](https://open.spotify.com/playlist/6LvVrn9f1GD9MqBYBALmiH?si=9j0ghErWRIOu9YQD90uSvw) |
-| 🎶 **SeoAh's Playlist** | [🔗 Click here](https://open.spotify.com/playlist/0hb43YymGmg7vPdjS2NQcC?si=DsFWEFw1RgOAFYQKcsIPMA) |
+| 🎶 **JooBin's Playlist** | [🔗](https://open.spotify.com/playlist/6LvVrn9f1GD9MqBYBALmiH?si=9j0ghErWRIOu9YQD90uSvw) |
+| 🎶 **SeoAh's Playlist** | [🔗](https://open.spotify.com/playlist/0hb43YymGmg7vPdjS2NQcC?si=DsFWEFw1RgOAFYQKcsIPMA) |
 
 
 ___
