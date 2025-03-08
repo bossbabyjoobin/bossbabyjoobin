@@ -4,8 +4,8 @@ title: 🐣☀️🦭
 
 ![[joobinseoah.png]]
 
-## **Welcome to the Fromm Translations Archive**
-This is an archive of Fromm translations for **JooBin and SeoAh**.  
+## **fromm translations archive for JooBin and SeoAh**
+  
 🔹 **Best viewed on desktop** (or enable desktop mode on mobile).  
 ⚠️ **Note:** The explorer tab is *not supported* in native mobile view (only for viewing).  
 
@@ -22,23 +22,25 @@ ___
 
 ## **📚 Archive Links**
 
+![[google.png|160]]
+
 | Archive | Link |
 |---------|------|
 | 📝 **JooBin's Fromm Archive** | [🔗 Click here](https://bit.ly/JooBin-s18) |
 | 📝 **SeoAh's Fromm Archive** | [🔗 Click here](https://bit.ly/SeoAh-s23) |
 
-![[google.png|160]]
 
 ___
 
 ## **🎵 Playlists (WIP ⏳)**
+
+![[Spotify_logo_with_text.svg|140]]
 
 | Playlist | Link |
 |----------|------|
 | 🎶 **JooBin's Playlist** | [🔗 Click here](https://open.spotify.com/playlist/6LvVrn9f1GD9MqBYBALmiH?si=9j0ghErWRIOu9YQD90uSvw) |
 | 🎶 **SeoAh's Playlist** | [🔗 Click here](https://open.spotify.com/playlist/0hb43YymGmg7vPdjS2NQcC?si=DsFWEFw1RgOAFYQKcsIPMA) |
 
-![[Spotify_logo_with_text.svg|140]]
 
 ___
 
