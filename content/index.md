@@ -13,7 +13,7 @@ Currently, explorer tab is *not supported* in native mobile view (only for viewi
 I’ll eventually add all the translations I’ve posted on Twitter when I have time
 As always, translations may contain inaccuracies ^~^ sorry for typos ~
 
-:binnie_obsidian_icon_216x216:
+
 
 <br>
 
